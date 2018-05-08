@@ -35,7 +35,4 @@
 		<rotate>3</rotate>
 		<mulrotate>10</mulrotate>
 	</drawable>
-<!--COMMENTED BY ClockSkinMaker
-<metadata gui='rra' version='1.6.0.0'/>
--->
 </clockskin>
